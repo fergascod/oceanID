@@ -7,7 +7,6 @@ import random as rand
 import os
 
 from modes import modes
-from utils import loadRecordings, catalanNames
 
 import json
 
