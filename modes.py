@@ -1,8 +1,14 @@
 test=[
-"Moll de roca",
 "Sarg",
-"Mabre"
+"Mabre",
+"Orada",
+"Oblada",
+"Salpa",
+"Llissa Vera",
+"Verada",
+"Boga",
 ]
+
 
 modes={
 "test":test,
