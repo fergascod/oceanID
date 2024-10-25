@@ -1,6 +1,6 @@
 # OceanID
 
-This is a personal project of mine (in a very early stage) 
+This is a personal project of mine (in a very early stage).
 
 ## REQUIRED MODULES
 
