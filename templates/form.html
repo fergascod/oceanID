@@ -19,7 +19,7 @@
             <p>Selecciona mode de joc:</p>
             <select name = "game_mode" class="form-control form-control-lg" required>
                 {% for game_mode in game_modes %}
-                <option value={{game_mode}}>{{game_mode}}</option>
+                <option value="{{game_mode}}">{{game_mode}}</option>
                 {% endfor %}
             </select>  
             <button type="submit" class="btn btn-primary">Comença!</button>
