@@ -51,10 +51,7 @@ if __name__ == "__main__":
         print(f"Scraping images for {name} with taxon_id: {taxon_id}")
         user = "xasalva"
         taxon_id_str = str(taxon_id)
-        base_url = (
-            f"https://minka-sdg.org/lifelists/{user}",
-            f"?details_view=observations&taxon_id={taxon_id_str}",
-        )
+        base_url = f"https://minka-sdg.org/lifelists/{user}?details_view=observations&taxon_id={taxon_id_str}"
         obs_base_url = "https://minka-sdg.org/"
         print(f"Parsing: {base_url}...\n")
 
