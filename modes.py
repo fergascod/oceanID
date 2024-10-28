@@ -59,8 +59,7 @@ bavoses_i_cabots = [
 ]
 
 modes = {
-    "test": test,
-    "Tots els peixos de la miniguia": tot,
-    "Joell o boga?": joell_boga,
+    "Peixos de la miniguia de camp (Oryx)": tot,
     "Bavoses i cabots": bavoses_i_cabots,
+    "Joell o boga?": joell_boga
 }
