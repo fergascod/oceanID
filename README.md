@@ -30,7 +30,7 @@ Move into the directory we just created using:
 
 Then just execute the Flask app:
 > ```
-> flask --app app run
+> flask --app app run -debug
 > ```
 
 The program will be running in http://127.0.0.1:5000 use your browser of choice to open the app.
